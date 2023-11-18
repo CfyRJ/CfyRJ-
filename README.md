@@ -17,6 +17,6 @@ ___
 ## Socials
 [![telegram]()](https://tlgg.ru/CfyRJ)
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/alexandr-kositskiy-2631332a0/)
-[![github](https://skillicons.dev/icons?i=github)](https://github.com/CfyRJ)
+[![github](https://skillicons.dev/icons?i=github)](https://github.com/CfyRJ/CfyRJ)
 [![habr]()](https://career.habr.com/cfyrj)
 [![hexlet]()](https://cv.hexlet.io/ru/account/resumes)
