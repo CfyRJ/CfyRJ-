@@ -15,7 +15,7 @@ ___
 [![My Skills](https://skillicons.dev/icons?i=bash,css,django,docker,flask,git,html,ai,linux,matlab,postgres,vscode,)](https://skillicons.dev)
 ___
 ## Socials
-[![telegram]()](https://tlgg.ru/CfyRJ)
+[![telegram](telega_logo_56x56.png)](https://tlgg.ru/CfyRJ)
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/alexandr-kositskiy-2631332a0/)
 [![github](https://skillicons.dev/icons?i=github)](https://github.com/CfyRJ/CfyRJ)
 [![habr]()](https://career.habr.com/cfyrj)
